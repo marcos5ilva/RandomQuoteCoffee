@@ -8,7 +8,7 @@ angular.module('app', [])
 		.controller('RandomQuoteCtrl', ['$scope','$http','baseURL', '$log', function($scope, $http, baseURL, $log) {
 
 			$scope.quote={};
-
+			$scope.quote = {data: {quote: "Loading..."}}
 			$http.get(baseURL)
 				.then(function(response) {
 
