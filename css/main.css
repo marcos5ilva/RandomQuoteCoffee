@@ -7,7 +7,7 @@
 	.backgoundPage{
 		background-image:url('../images/pageBackground.png');
 		background-repeat: no-repeat;
-		margin-top: 50px; 
+		margin-top: 40px; 
 		width:  auto;
 	
 	}
@@ -18,11 +18,11 @@
 	
 	font-family: 'Patrick Hand', cursive;
 	color: #6D6659;
-	padding-top: 180px;
-	padding-bottom: 300px;
+	padding-top: 120px;
+	/*padding-bottom: 300px;*/
 	padding-right: 50px;
-	height: 680px;
-	width: 680px;
+	height: 600px;
+	width: 500px;
 }
 
 a:link{
@@ -44,7 +44,7 @@ a:active {
 
 h3{
 	color: #6d6659;
-	padding-top: 60px;
+	padding-top: 50px;
 	display: inline-block;
 }
 
