@@ -1,0 +1,82 @@
+	body{
+		background-color: #DDD5C9;
+	}
+
+
+
+	.backgoundPage{
+		background-image:url('../images/pageBackground.png');
+		background-repeat: no-repeat;
+		margin-top: 50px; 
+		width:  auto;
+	
+	}
+	
+
+
+
+.quote-text{
+	
+	font-family: 'Patrick Hand', cursive;
+	color: #6D6659;
+	padding-top: 180px;
+	padding-bottom: 300px;
+	padding-right: 50px;
+	height: 680px;
+	width: 680px;
+}
+
+a:link{
+	color: #6D6659;
+}
+
+a:hover{
+	color: #93887C;
+}
+
+a:visited {
+    color: #6D6659;
+}
+
+a:active {
+    color: #93887C;
+}
+
+
+h3{
+	color: #6d6659;
+	padding-top: 60px;
+	display: inline-block;
+}
+
+.stacked-button{
+
+	font-size: 100px;
+	padding-top: 20px;
+	padding-left: 20px
+
+}
+
+.inner-donut{
+	color: #DDD5C9;
+}
+
+.inner-cup{
+	color: #DDCFBA;
+}
+
+.title-lg{
+	font-family: 'Signika', sans-serif;
+	font-size: 60px;
+	text-align: center;
+	color: #262523;
+}
+.title-md{
+	font-family: 'Signika', sans-serif;
+	text-align: center;
+	font-size: 45px;
+	color: #262523;
+	padding-top: 40px;
+}
+
+
